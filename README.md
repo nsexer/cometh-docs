@@ -28,17 +28,17 @@ After you [Enter the game](game/cometh-bridge.md), discover[ How to play](https:
 
 ## 2. You've played. What's next?
 
-Have you just mined a comet? Learn [What to do after mining](what-to-do-after-mining/)
+Have you just mined a comet? Learn [What to do after mining](what-to-do-after-mining/).
 
 ![](.gitbook/assets/pool.png)
 
 Want to learn how to leverage your earnings? Read more more about the [farm/earn token](https://app.gitbook.com/@cometh/s/cometh/staking-rewards) mechanics.
 
-#### [ComethSwap](https://swap.cometh.io/#/swap) is the next step !
+#### [ComethSwap](https://swap.cometh.io/#/swap) is the next step!
 
 ## 3. Use [ComethSwap](https://swap.cometh.io/#/swap) to leverage your rewards
 
-Learn everything you need to know about [ComethSwap](comethswap-1/comethswap/) [**here**](https://app.gitbook.com/@cometh/s/cometh/comethswap)
+Learn everything you need to know about [ComethSwap](https://swap.cometh.io/#/swap) [**here**](comethswap-1/comethswap/).
 
 ![](.gitbook/assets/image%20%286%29.png)
 
@@ -60,5 +60,6 @@ The proceeds of the sales are used to create prizes for the players and distribu
 **MUST is the main currency of the Cometh ecosystem.**   
 It is a \(ERC20\) token lying on the Ethereum blockchain.  
   
-**Learn more about** [**Tokens**](comethswap-1/tokens/) **and** [**Hot to get MUST**](comethswap-1/tokens/how-to-get-usdmust.md)\*\*\*\*
+**Learn more about** [**Tokens**](comethswap-1/tokens/) **and** [**How to get MUST**](comethswap-1/tokens/how-to-get-usdmust.md)\*\*\*\*
+
 
