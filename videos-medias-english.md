@@ -2,7 +2,7 @@
 description: Find here some Art and Videos
 ---
 
-# Videos / medias English
+# Videos / medias \(English\)
 
 {% embed url="https://www.youtube.com/watch?v=fcu\_dlqpv2k" %}
 
