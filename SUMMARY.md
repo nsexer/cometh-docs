@@ -2,7 +2,7 @@
 
 * [Cometh.io](README.md)
 
-## Game 🕹
+## 🕹 Game
 
 * [Enter the Game](game/cometh-bridge.md)
 * [How to play Cometh](game/how-to-play-cometh-1.md)
@@ -16,7 +16,7 @@
   * [Manage rewards in Comethswap](what-to-do-after-mining/manage-rewards-in-comethswap.md)
   * [Farm tokens on Ethereum L1 via Sushiswap](what-to-do-after-mining/l1-univ2-sushiswap-dust.md)
 
-## ComethSwap ☄️ <a id="comethswap-1"></a>
+## ☄️ ComethSwap <a id="comethswap-1"></a>
 
 * [ComethSwap](comethswap-1/comethswap/README.md)
   * [Move funds to L2](comethswap-1/comethswap/matic-bridge.md)
@@ -25,7 +25,7 @@
   * [How to get MUST](comethswap-1/tokens/how-to-get-usdmust.md)
   * [What is DUST](comethswap-1/tokens/dust.md)
 
-## Spaceships 🛸
+## 🛸 Spaceships
 
 * [What are Spaceships](spaceships/spaceships.md)
 * [Spaceship Characteristics](spaceships/spaceship-characteristics.md)
