@@ -2,7 +2,7 @@
 description: Find here the most common questions (to be completed)
 ---
 
-# FAQ
+# ❓FAQ
 
 ## GAME 🕹
 

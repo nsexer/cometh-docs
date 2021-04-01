@@ -35,7 +35,7 @@
 
 ---
 
-* [FAQ](faq.md)
+* [❓FAQ](faq.md)
 * [Socials](socials.md)
 * [Videos / medias \(English\)](videos-medias-english.md)
 * [Videos / medias \(French\)](videos-medias.md)
