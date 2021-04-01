@@ -86,7 +86,7 @@ You now need to send your spaceships into the game, this also happens on [game.c
 
 ![](https://miro.medium.com/max/1200/1*UANyN26qNENn7PU2Wl10vw.png)
 
-Click on the "Send 𐃘" button to send your Spaceship \(currently sitting on Matic Layer2\) in the game.
+Click on the "Send ->" button to send your Spaceship \(currently sitting on Matic Layer2\) in the game.
 
 ## _**Sound on 🔈**_ <a id="7ba4"></a>
 
