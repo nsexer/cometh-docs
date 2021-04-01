@@ -4,7 +4,7 @@ description: Find here the most common questions (to be completed)
 
 # ❓FAQ
 
-## GAME 🕹
+## 🕹 GAME
 
 ### My Spaceship/MUST disappeared during a L1&lt;&gt;L2 transfer
 
@@ -41,7 +41,7 @@ Fees on Jumps are here to feed comets with game proceeds as well as preventing p
 
 Not from the "Cometh forge"yet, we’re working on it. However you can buy secondary market spaceship on [https://matic.opensea.io/](https://matic.opensea.io/)
 
-## **COMETHSWAP ☄️**
+## **☄️ COMETHSWAP**
 
 ### **How do I use ComethSwap?**
 
@@ -52,7 +52,7 @@ Read the [Comethswap](comethswap-1/comethswap/) guide and bridge funds from Ethe
 
 Make sure your read this guide:  [How to provide liquidity and farm on ComethSwap ⚗️](comethswap-1/comethswap/how-to-provide-liquidity-on-comethswap.md)
 
-## **SPACESHIPS 🛸**
+## **🛸 SPACESHIPS**
 
 ### **What is Mining Range?** 
 
