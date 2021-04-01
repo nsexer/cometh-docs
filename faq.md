@@ -41,7 +41,7 @@ Fees on Jumps are here to feed comets with game proceeds as well as preventing p
 
 Not from the "Cometh forge"yet, we’re working on it. However you can buy secondary market spaceship on [https://matic.opensea.io/](https://matic.opensea.io/)
 
-## **COMETHSWAP**
+## **COMETHSWAP ☄️**
 
 ### **How do I use ComethSwap?**
 

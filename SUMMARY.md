@@ -16,7 +16,7 @@
   * [Manage rewards in Comethswap](what-to-do-after-mining/manage-rewards-in-comethswap.md)
   * [Farm tokens on Ethereum L1 via Sushiswap](what-to-do-after-mining/l1-univ2-sushiswap-dust.md)
 
-## ComethSwap <a id="comethswap-1"></a>
+## ComethSwap ☄️ <a id="comethswap-1"></a>
 
 * [ComethSwap](comethswap-1/comethswap/README.md)
   * [Move funds to L2](comethswap-1/comethswap/matic-bridge.md)
