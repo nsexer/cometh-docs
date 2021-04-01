@@ -2,7 +2,7 @@
 description: Find here some Art and Videos
 ---
 
-# Videos / medias french
+# Videos / medias \(French\)
 
 FRENCH Tutorials: [https://www.youtube.com/playlist?list=PL7HXB9q9kwuiHRDgiL2l5CsIfaMtJRKnD](https://www.youtube.com/playlist?list=PL7HXB9q9kwuiHRDgiL2l5CsIfaMtJRKnD) 
 
