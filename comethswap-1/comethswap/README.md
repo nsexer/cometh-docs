@@ -24,11 +24,7 @@ The DEX is running on Polygon’s \(ex-Matic\) Layer2 with intertwined capabilit
 
 ## Liquidity Mining  <a id="c9c6"></a>
 
-Comethswap is an open DEX where anyone can list an ERC20 compatible pair. In order to attract liquidity to Comethswap, specific DeFi related pools will be incentivized starting Monday. The liquidity providers will be distributed MUST ⚗️ tokens without vesting. The pools and list of tokens available for trading at Comethswap is set to grow swiftly and steadily.
-
-![](https://miro.medium.com/max/1348/1*MZL3zS4uuaKdwJRoSr4QZg.png)
-
-For the opening week we are excited to partner with [Stake DAO](https://stakedao.org/), the most used protocol for automated investing on Ethereum. Stake DAO proposes [three strategies](https://stakedao.org/strategies) leveraging curve.fi BTC \(~1.6% APY\), USD \(~11.5% APY\), and EUR \(~27% APY\) pools. Comethswap users will have the opportunity to get exposure to the corresponding yield generating tokens \(sdeursCRV, sdcrvRenWSBTC, sd3Crv\) without the hassle of depositing into the corresponding smartcontract on Ethereum. Hundreds of thousands of gas fees are saved in the process.
+Comethswap is an open DEX where anyone can list an ERC20 compatible pair. In order to attract liquidity to Comethswap, specific DeFi related pools are available. The liquidity providers will be distributed MUST ⚗️ tokens without vesting. The pools and list of tokens available for trading at Comethswap is set to grow swiftly and steadily.
 
 ![](../../.gitbook/assets/exowhzwxaairtju.jpg)
 
