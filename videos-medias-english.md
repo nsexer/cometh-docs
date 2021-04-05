@@ -1,8 +1,12 @@
 ---
-description: Find here some Art and Videos
+description: 'Find here some community-made Art and Videos (Timelapses, Gameplay, ASMR...)'
 ---
 
 # Videos / medias \(English\)
+
+{% embed url="https://www.youtube.com/channel/UCMK41kj8VNAKbI-KcHtd9yQ" %}
+
+**Cometh ASMR**
 
 {% embed url="https://www.youtube.com/watch?v=fcu\_dlqpv2k" %}
 
