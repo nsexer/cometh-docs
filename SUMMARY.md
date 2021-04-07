@@ -39,4 +39,5 @@
 * [Socials](socials.md)
 * [Videos / medias \(English\)](videos-medias-english.md)
 * [Videos / medias \(French\)](videos-medias.md)
+* [Community Resources](community-resources.md)
 
