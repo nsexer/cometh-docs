@@ -12,11 +12,11 @@ The lender and borrower share the mining reward \(according to the terms of the 
 ### What are the fees? <a id="4fc4"></a>
 
 **Protocole Fees**  
-5% of Rental price \(with minimum of 0.0003 Must\).  
+5% of Rental price \(with minimum of 0.0003 MUST\).  
 These fees are used to host the service, fund comets and are redistributed to players.
 
 **Provisioned Exit Fee**  
-0.001 Must \* number of ships in the offer.  
+0.001 MUST \* number of ships in the offer.  
 These fees ensure that the owner of the ships will get them back from the game at the end of the rental contract.
 
 ### Who pays the fees? <a id="c8da"></a>
