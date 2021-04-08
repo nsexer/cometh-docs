@@ -2,12 +2,15 @@
 
 ### **What are spaceships characteristics?** 
 
-Spaceship characteristics can be found on the table bellow.  
-Each ship has a Radar, Drill and Machinery, which respectively provide their respective characteristics, **Mining Area, Mining Power and Cooldown**:
+Spaceships' characteristics influence in-game behaviors and rewards.  
+  
+Spaceship characteristics can be found on the table bellow. Each ship has a Radar, Drill and Machinery, which respectively provide their respective characteristics, **Mining Area, Mining Power and Cooldown**:
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
 ![](../.gitbook/assets/image%20%285%29.png)
+
+![](../.gitbook/assets/image%20%2816%29.png)
 
 > Base stats for common spaceships are 15 km range, 100% mining  power et 300 seconds cooldown.
 
