@@ -16,12 +16,12 @@ To play [Cometh](https://game.cometh.io/) you will need:
 ### 2. Get Spaceships <a id="5870"></a>
 
 > No Spaceship yet?   
-> [Read How to get Spaceships](../spaceships/how-to-get-spaceships-to-complete.md)
+> [Read How to get Spaceships](../spaceships/how-to-get-spaceships.md)
 
 ### 3. Get $MUST
 
 > No $MUST yet?   
-> [Read How to get $MUST](../comethswap-1/tokens/how-to-get-usdmust.md)
+> [Read How to get $MUST](../comethswap-1/tokens/how-to-get-must.md)
 
 ### \(4. Go on [bridge.cometh.io](https://bridge.cometh.io/)\) <a id="5870"></a>
 

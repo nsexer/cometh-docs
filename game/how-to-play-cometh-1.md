@@ -10,7 +10,7 @@ Space Apes, here we are ! You’re almost ready to mine juicy comets and earn va
 
 In this guide, you’ll find few tips to easily navigate the galaxy and earn cosmic rewards.
 
-> Make sure you've followed the steps of how to [Enter the Game](cometh-bridge.md)
+> Make sure you've followed the steps of how to [Enter the Game](enter-the-game.md)
 
 First enjoy the view from your cockpit 😃: thousands of spaceships flying around the giant sun, an overview of your main details \(pulling price, balance, number of miners & comets and your wallet address\)
 
@@ -78,7 +78,7 @@ It is a very important feature that displays prices of surrounding ships.
 
 **Your training is complete, you are now able to safely pilot your spaceship and mine comets throughout the galaxy**👨‍🚀
 
-### Want to know more about [Solar Systems](change-system-solars-todo.md) and how to navigate the Galaxy?
+### Want to know more about [Solar Systems](solar-systems.md) and how to navigate the Galaxy?
 
 ![](https://miro.medium.com/max/1600/0*6ygJ9zp9lCwnLx6U)
 

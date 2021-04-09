@@ -22,13 +22,13 @@ Cometh leverages ‘layer 2’ scaling solutions including both [Polygon](https:
 
 ## 1. [How to play the game](game/how-to-play-cometh-1.md) 🕹
 
-After you [Enter the game](game/cometh-bridge.md), discover[ How to play](https://app.gitbook.com/@cometh/s/cometh/game/how-to-play-cometh-1) and mine your first comets ☄️
+After you [Enter the game](game/enter-the-game.md), discover[ How to play](https://app.gitbook.com/@cometh/s/cometh/game/how-to-play-cometh-1) and mine your first comets ☄️
 
 ![Live footage of a honest space farmer, mining a comet with his spaceship](.gitbook/assets/mining.gif)
 
 ## 2. You've played. What's next?
 
-Have you just mined a comet? Learn [What to do after mining](what-to-do-after-mining/)
+Have you just mined a comet? Learn [What to do after mining](rewards/)
 
 ![](.gitbook/assets/pool.png)
 
@@ -48,7 +48,7 @@ To play, you will need a spaceship NFT 🛸
 
 ![](.gitbook/assets/plan-de-travail-3-copie-0.5x.png)
 
-> [How to get your own spaceship](spaceships/how-to-get-spaceships-to-complete.md)?
+> [How to get your own spaceship](spaceships/how-to-get-spaceships.md)?
 
 Players can visit our shop on [Opensea](https://opensea.io/collection/cometh-spaceships/) and purchase NFTs for use in the game.   
 The proceeds of the sales are used to create prizes for the players and distribute [MUST](comethswap-1/tokens/) ⚗️ as cashback.
@@ -60,5 +60,5 @@ The proceeds of the sales are used to create prizes for the players and distribu
 **MUST is the main currency of the Cometh ecosystem.**   
 It is a \(ERC20\) token lying on the Ethereum blockchain.  
   
-**Learn more about** [**Tokens**](comethswap-1/tokens/) **and** [**Hot to get MUST**](comethswap-1/tokens/how-to-get-usdmust.md)\*\*\*\*
+**Learn more about** [**Tokens**](comethswap-1/tokens/) **and** [**Hot to get MUST**](comethswap-1/tokens/how-to-get-must.md)\*\*\*\*
 
