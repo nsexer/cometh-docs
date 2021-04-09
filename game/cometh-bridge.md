@@ -55,7 +55,13 @@ To join the galaxy, you’ll have to make few additional setups in your Metamask
 
 ![](https://miro.medium.com/max/2846/1*Ev3LXGXw4Miry8esDQHOzg.png)
 
-Connect Metamask \(Desktop\) to Matic Mainnet RPC:
+Connect Metamask \(Desktop\) to Matic Mainnet RPC via [https://chainlist.org/](https://chainlist.org/):  
+1. Search "Matic" in the Search Networks search bar  
+2. Click on "Connect Wallet" and follow instructions in Metamask
+
+![](../.gitbook/assets/image%20%2817%29.png)
+
+_**OR**_ by following the steps below:
 
 1. Click on the network selection button on the top
 
