@@ -23,7 +23,7 @@ You will probably find your ships and MUST right here [https://bridge.cometh.io/
 * Check you must allowance on the bottom left corner of the screen
 * Check if you have enough MATIC in your account to pay for the transaction
 * Are you sure there are still rewards to be mined? depending on your browser, comets may still appear on the screen but in reality, it has been emptied.
-* Try to change your Metamask RPC from  [https://rpc-cometh-mainnet.maticvigil.com/v1/0937c004ab133135c86586b55ca212a6c9ecd224](https://rpc-cometh-mainnet.maticvigil.com/v1/0937c004ab133135c86586b55ca212a6c9ecd224) to [https://rpc-mainnet.matic.network/](https://rpc-mainnet.matic.network/) following [these instructions](http://docs.cometh.io/game/cometh-bridge/#aa13)
+* Try to change your Metamask RPC from  [https://rpc-cometh-mainnet.maticvigil.com/v1/0937c004ab133135c86586b55ca212a6c9ecd224](https://rpc-cometh-mainnet.maticvigil.com/v1/0937c004ab133135c86586b55ca212a6c9ecd224) to [https://rpc-mainnet.matic.network/](https://rpc-mainnet.matic.network/) following [these instructions](https://docs.cometh.io/game/enter-the-game#aa13)
 * If none of those work, please [message us on discord](https://discord.gg/NR6nFG59Zy) \(don't forget to copy the transaction error so we can investigate\)
 
 ###  **How is jump/pull price calculated?** 
