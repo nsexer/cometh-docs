@@ -5,6 +5,7 @@
 * French Videos: [https://www.youtube.com/playlist?list=PL7HXB9q9kwuiHRDgiL2l5CsIfaMtJRKnD](https://www.youtube.com/playlist?list=PL7HXB9q9kwuiHRDgiL2l5CsIfaMtJRKnD) 
 * Gameplay videos: [https://www.youtube.com/channel/UCMK41kj8VNAKbI-KcHtd9yQ](https://www.youtube.com/channel/UCMK41kj8VNAKbI-KcHtd9yQ)
 * Gameplay videos BIS: [https://www.youtube.com/watch?v=fcu\_dlqpv2k](https://www.youtube.com/watch?v=fcu_dlqpv2k)
+* onboarding video : [https://www.youtube.com/watch?v=1GA-ngxakrU](https://www.youtube.com/watch?v=1GA-ngxakrU)
 
 
 
