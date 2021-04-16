@@ -6,6 +6,7 @@
 
 * [Enter the Game](game/enter-the-game.md)
 * [How to play Cometh](game/how-to-play-cometh-1.md)
+* [Multi-Jump](game/multi-jump.md)
 * [Change Solar Systems](game/solar-systems.md)
 * [Leaderboards](game/leaderboards.md)
 
@@ -21,6 +22,7 @@
 * [ComethSwap](comethswap-1/comethswap/README.md)
   * [Move funds to L2](comethswap-1/comethswap/matic-bridge.md)
   * [How to provide liquidity and Farm on ComethSwap ⚗️](comethswap-1/comethswap/how-to-provide-liquidity-on-comethswap.md)
+* [Buy Crypto with Credit Cards on Polygon Layer2 with ComethSwap](comethswap-1/buy-crypto-with-credit-cards-on-polygon-layer2-with-comethswap.md)
 * [Tokens \( ⚗️, 🧪 \)](comethswap-1/tokens/README.md)
   * [How to get MUST](comethswap-1/tokens/how-to-get-must.md)
   * [What is DUST](comethswap-1/tokens/dust.md)
