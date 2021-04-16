@@ -60,5 +60,9 @@ The proceeds of the sales are used to create prizes for the players and distribu
 **MUST is the main currency of the Cometh ecosystem.**   
 It is a \(ERC20\) token lying on the Ethereum blockchain.  
   
-**Learn more about** [**Tokens**](comethswap-1/tokens/) **and** [**Hot to get MUST**](comethswap-1/tokens/how-to-get-must.md)\*\*\*\*
+**Learn more about** [**Tokens**](comethswap-1/tokens/) **and** [**Hot to get MUST**](comethswap-1/tokens/how-to-get-must.md)  
+  
+****
+
+## **6. join our Discord to get all the news !**   [**https://discord.com/invite/gAWTyctkze**](https://discord.com/invite/gAWTyctkze)\*\*\*\*
 

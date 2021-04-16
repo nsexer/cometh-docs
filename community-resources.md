@@ -6,6 +6,8 @@
 * Gameplay videos: [https://www.youtube.com/channel/UCMK41kj8VNAKbI-KcHtd9yQ](https://www.youtube.com/channel/UCMK41kj8VNAKbI-KcHtd9yQ)
 * Gameplay videos BIS: [https://www.youtube.com/watch?v=fcu\_dlqpv2k](https://www.youtube.com/watch?v=fcu_dlqpv2k)
 * onboarding video : [https://www.youtube.com/watch?v=1GA-ngxakrU](https://www.youtube.com/watch?v=1GA-ngxakrU)
+* Linktee : [https://linktr.ee/Cometh.io](https://linktr.ee/Cometh.io)
+* Discord : [https://discord.com/invite/gAWTyctkze](https://discord.com/invite/gAWTyctkze)
 
 
 
