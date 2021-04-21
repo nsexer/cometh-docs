@@ -4,7 +4,7 @@ description: A DeFi powered space game with yield generating NFTs (spaceships)
 
 # Cometh.io
 
-### **What is Cometh?**
+### **What is Cometh?** [**Cometh in french**](https://cometh.gitbook.io/comethfr/) ****
 
 ![](.gitbook/assets/1_lceah15ttt6mek-00kobvq.png)
 
