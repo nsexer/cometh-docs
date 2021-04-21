@@ -32,7 +32,9 @@ Spaceships inherit from NFT characteristics, which make them useful, digitally s
 **Spaceships are**
 
 * **Useful**: allow you to play the Cometh game\(s\)
-* **Scarce**: limited in numbers, depending on their rarity \(1 to 1000\)
+* **Unique**: each spaceship is unique
+* **Tamper-proof**: impossible to copy
+* **Scarce**: limited in numbers per collection, depending on their rarity \(1 to 1000\)
 * **Traceable**: minting and exchanges are public
 * **Monetizable**: allow to earn in-game rewards \(mining\), passive pulling rewards and sell it back on secondary markets
 * **Interoperable**: you can buy/sell spaceships on any platform supporting the ERC721 \(NFT\) standard. Anyone can build a game using spaceships as in-game assets \(example: [https://minigame.cometh.io/](https://minigame.cometh.io/)\) 
