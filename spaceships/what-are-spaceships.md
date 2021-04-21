@@ -36,7 +36,7 @@ Spaceships inherit from NFT characteristics, which make them useful, digitally s
 * **Traceable**: minting and exchanges are public
 * **Monetizable**: allow to earn in-game rewards \(mining\), passive pulling rewards and sell it back on secondary markets
 * **Interoperable**: you can buy/sell spaceships on any platform supporting the ERC721 \(NFT\) standard. Anyone can build a game using spaceships as in-game assets \(example: [https://minigame.cometh.io/](https://minigame.cometh.io/)\) 
-* Truly ownable: spaceship ownership is valid in cometh.io but also in the whole Ethereum blockchain. 
+* **Truly ownable**: spaceship ownership is valid in cometh.io but also in the whole Ethereum blockchain. 
 
 You can rent your ships to earn additional passive income on them via: rental.cometh.io 
 
