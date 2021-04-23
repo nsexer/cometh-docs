@@ -8,6 +8,7 @@
 * [How to play Cometh](game/how-to-play-cometh-1/README.md)
   * [Change Solar Systems](game/how-to-play-cometh-1/solar-systems.md)
   * [Multi-Jump](game/how-to-play-cometh-1/multi-jump.md)
+  * [Cometh Rovers, a new mining mechanism 🤖](game/how-to-play-cometh-1/cometh-rovers-a-new-mining-mechanism.md)
 * [Leaderboards](game/leaderboards.md)
 
 ---
