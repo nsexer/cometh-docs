@@ -5,9 +5,9 @@
 ## 🕹 Game
 
 * [Enter the Game](game/enter-the-game.md)
-* [How to play Cometh](game/how-to-play-cometh-1.md)
-* [Multi-Jump](game/multi-jump.md)
-* [Change Solar Systems](game/solar-systems.md)
+* [How to play Cometh](game/how-to-play-cometh-1/README.md)
+  * [Change Solar Systems](game/how-to-play-cometh-1/solar-systems.md)
+  * [Multi-Jump](game/how-to-play-cometh-1/multi-jump.md)
 * [Leaderboards](game/leaderboards.md)
 
 ---

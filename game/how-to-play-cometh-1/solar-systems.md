@@ -28,7 +28,7 @@ These portals will allow you to travel to other solar systems.
 
 > Portals are **faster than spaceships** so you can place your ship in the same orbit and just wait for the portal to reach you.
 
-![Traveling to a new SOL](../.gitbook/assets/giftravel.gif)
+![Traveling to a new SOL](../../.gitbook/assets/giftravel.gif)
 
 **Traveling have a cost.** You currently have to pay 0.001 MUST to the intergalactic toll company.
 
@@ -53,15 +53,15 @@ As initially explained in the [Whitepaper](https://www.cometh.io/cometh-white-pa
 
 3 portions of the galaxy can now be explored, they have differents comets  and population.
 
-![](../.gitbook/assets/solselect%20%281%29.jpg)
+![](../../.gitbook/assets/solselect%20%281%29.jpg)
 
-![](../.gitbook/assets/7ed90baa580a9efa324f8508a985e4a0.png)
+![](../../.gitbook/assets/7ed90baa580a9efa324f8508a985e4a0.png)
 
 To reach a new Sol, you need to use the **Portals.**
 
 #### **First find the portal corresponding to the Sol you want to reach.**
 
-![](../.gitbook/assets/sol2.jpg)
+![](../../.gitbook/assets/sol2.jpg)
 
 #### Then use the portal to travel to your new Sol.
 
@@ -70,5 +70,5 @@ after paying the 0.001 fees, you will travel to your new destination.
 
 > Portals are **faster than spaceships** so you can place your ship in the same orbit and just wait for the portal to reach you.
 
-![Traveling to a new Sol](../.gitbook/assets/giftravel.gif)
+![Traveling to a new Sol](../../.gitbook/assets/giftravel.gif)
 

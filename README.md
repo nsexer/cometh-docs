@@ -20,7 +20,7 @@ On [app.cometh.io](https://app.cometh.io/) you can see applications and tools co
 
 Cometh leverages ‘layer 2’ scaling solutions including both [Polygon](https://polygon.technology/) \(formerly Matic\) and \(soon\) Arbitrum’s Optimistic Rollups so that players can focus on the game instead of blockchain-related fees.
 
-## 1. [How to play the game](game/how-to-play-cometh-1.md) 🕹
+## 1. [How to play the game](game/how-to-play-cometh-1/) 🕹
 
 After you [Enter the game](game/enter-the-game.md), discover[ How to play](https://app.gitbook.com/@cometh/s/cometh/game/how-to-play-cometh-1) and mine your first comets ☄️
 
