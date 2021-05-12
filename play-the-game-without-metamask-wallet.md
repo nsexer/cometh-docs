@@ -1,5 +1,7 @@
 # Play the game Without Metamask Wallet !
 
+**To transfer your Ships, you can follow this link** : [https://game.cometh.io/tokentransfer](https://game.cometh.io/tokentransfer)
+
 Cometh’s ambition is to gamify DeFi and make it accessible to everyone. To easily onboard new players, we’ve added the ability to play with just an email and starter kits, with spaceships ready to play, directly on Polygon’s L2.
 
 ## The 1-click play experience <a id="95ba"></a>

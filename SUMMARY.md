@@ -13,6 +13,7 @@
 
 ---
 
+* [Play the game Without Metamask Wallet !](play-the-game-without-metamask-wallet.md)
 * [Earn & Manage rewards 💰](rewards/README.md)
   * [Cometh rewards](rewards/staking-rewards.md)
   * [Manage rewards in Comethswap](rewards/manage-rewards-in-comethswap.md)
@@ -23,7 +24,6 @@
 * [ComethSwap](comethswap-1/comethswap/README.md)
   * [Move funds to L2](comethswap-1/comethswap/matic-bridge.md)
   * [How to provide liquidity and Farm on ComethSwap ⚗️](comethswap-1/comethswap/how-to-provide-liquidity-on-comethswap.md)
-* [Play the game Without Metamask Wallet !](comethswap-1/play-the-game-without-metamask-wallet.md)
 * [Yield Farming from BSC to ComethSwap in 3 simple steps ☄️](comethswap-1/yield-farming-from-bsc-to-comethswap-in-3-simple-steps.md)
 * [Buy Crypto with Credit Cards on Polygon Layer2 with ComethSwap](comethswap-1/buy-crypto-with-credit-cards-on-polygon-layer2-with-comethswap.md)
 * [Tokens \( ⚗️, 🧪 \)](comethswap-1/tokens/README.md)
