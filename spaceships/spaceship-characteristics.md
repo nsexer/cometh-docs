@@ -6,6 +6,8 @@ Spaceships' characteristics influence in-game behaviors and rewards.
   
 Spaceship characteristics can be found on the table bellow. Each ship has a Radar, Drill and Machinery, which respectively provide their respective characteristics, **Mining Area, Mining Power and Cooldown**:
 
+![](../.gitbook/assets/unknown%20%282%29.png)
+
 ![](../.gitbook/assets/image%20%2812%29.png)
 
 ![](../.gitbook/assets/image%20%285%29.png)
