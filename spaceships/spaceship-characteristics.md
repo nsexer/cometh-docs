@@ -6,19 +6,11 @@ Spaceships' characteristics influence in-game behaviors and rewards.
   
 Spaceship characteristics can be found on the table bellow. Each ship has a Radar, Drill and Machinery, which respectively provide their respective characteristics, **Mining Area, Mining Power and Cooldown**:
 
-![](../.gitbook/assets/unknown%20%282%29.png)
+![](../.gitbook/assets/plan-de-travail-1.png)
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/plan-de-travail-5.png)
 
-![](../.gitbook/assets/image%20%285%29.png)
-
-![](../.gitbook/assets/image%20%2816%29.png)
-
-![](../.gitbook/assets/1_sivrscqolmxkdh4xnnenpq.png)
-
-![](../.gitbook/assets/1_vg6mmejxvlnojxiipdjsjq.png)
-
-> Base stats for common spaceships are 15 km range, 100% mining  power et 300 seconds cooldown.
+> Base stats for common spaceships are 15 km range, 100% mining  power/rover and 300 seconds cooldown.
 
 Each perks points gives a bonus / malus depending on the rank on the spaceship
 
