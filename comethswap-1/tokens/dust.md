@@ -67,13 +67,9 @@ Some TUBEs have a limited Stackable amount of MUST to favor small holders
 
 ## The foundations of a future full of innovations <a id="d97c"></a>
 
-With this setting stone, new releases of spaceships and items will happen at a much faster pace. The next big thing will be the beginning of tournaments and Player vs Player arenas which are set to open in the 2nd half of June. Get ready for 4 weeks of tournaments loaded with prizes valued at USD250,000. To enter the tournament, we will leverage our Kiosk and distribute entry tickets in the TUBE🧪 as well. We are finalizing the entry tickets you will be able to redeem in the main TUBE, don’t waste any time to stake your MUST ⚗!
+With this setting stone, new releases of spaceships and items will happen at a much faster pace. The next big thing will be the beginning of tournaments and Player vs Player arenas which are set to open in the 2nd half of June. Get ready for 4 weeks of tournaments loaded with prizes valued at USD250,000. To enter the tournament, we will leverage our Kiosk and distribute entry tickets in the TUBE🧪 as well. We are finalizing the entry tickets you will be able to redeem in the main TUBE, don’t waste any time to stake your MUST ⚗ !
 
-Stay tuned for the announcement of the first TUBE dedicated collection and the preview of the items!
 
-About cometh.io
-
-Cometh is the first DeFi Layer2 powered blockchain game with yield generating NFT. Cometh is building an entire Ethereum Layer 2 ecosystem, starting with a game, a new decentralized and scalable exchange \(ComethSwap\) and groundbreaking projects such as Cometh Rental, the Refinery and the Melange \(see whitepaper\). Play now
 
 
 
