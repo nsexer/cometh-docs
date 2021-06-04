@@ -72,7 +72,7 @@ You need to position your spaceship so that the comet flies through your spacesh
 You can activate and deactivate a tactical mode by clicking on the Bottom right corner button.   
 It is a very important feature that displays prices of surrounding ships.  
   
-New **ANTI COMET FLOOD** system: For a given time \*after each mining\* \(4 seconds by default\), the Mining Reward is decreased \(**7% reduction by default**\) until a max reduction \( **98% by default**\). This is to avoid “packs of ships” and comet flooding at **one point in space and time.**
+New **ANTI COMET FLOOD** system: For a given time \*after each mining\* \(4 seconds by default\), the Mining Reward is decreased \(5**% reduction by default**\) until a max reduction \( 50**% by default**\). This is to avoid “packs of ships” and comet flooding at **one point in space and time.**
 
 ![](../../.gitbook/assets/4bbb3e9ff8a036574da5247953b5755c.png)
 
