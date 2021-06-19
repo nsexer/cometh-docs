@@ -58,12 +58,12 @@ You can now use items in-game. This advantage is for one-time use. We have a lon
 
 Once your MUST has arrived on Layer2, **you will need to stack the same amount as on Ethereum** to claim the DUST you previously farmed
 
-![in case of error, have a look on eth scan your exact amout after the snapshot, decimal issue](https://miro.medium.com/max/60/0*oGc48mgsdXW71R6m?q=20)
+![In case of error, have a look on Etherscan and enter your exact amount after the snapshot](https://miro.medium.com/max/60/0*oGc48mgsdXW71R6m?q=20)
 
 You can click on Migrate L1 DUST to see your previously stacked MUST/DUST and get your DUSTv2
 
 To stack your MUST on the TUBE v2, start by approving MUST, then select the TUBE you want to stake must in, select the amount of MUST and click on stake.  
-Some TUBEs have a limited Stackable amount of MUST to favor small holders
+Some TUBEs have a limited Stackable amount of MUST to favor small holders.
 
 ## The foundations of a future full of innovations <a id="d97c"></a>
 
