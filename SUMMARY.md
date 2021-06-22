@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Cometh.io](README.md)
-* [Polygon Galactic Grand Prix](polygon-galactic-grand-prix.md)
+
+## 🏆 Polygon Galactic Grand Prix <a id="polygon-galactic-grand-prix-1"></a>
+
+* [The polygon Galactic Grand Prix](polygon-galactic-grand-prix-1/polygon-galactic-grand-prix.md)
+* [How to join the Grand Prix](polygon-galactic-grand-prix-1/how-to-join-the-grand-prix.md)
 
 ## 🕹 Game
 
