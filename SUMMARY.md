@@ -6,7 +6,7 @@
 
 * [The polygon Galactic Grand Prix](polygon-galactic-grand-prix-1/polygon-galactic-grand-prix.md)
 * [How to join the Grand Prix](polygon-galactic-grand-prix-1/how-to-join-the-grand-prix.md)
-* [Grand Prix FAQ](polygon-galactic-grand-prix-1/grand-prix-faq.md)
+* [Referral Program](polygon-galactic-grand-prix-1/referral-program.md)
 
 ## 🕹 Game
 
