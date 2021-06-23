@@ -1,7 +1,7 @@
 ---
 description: >-
   Line up your spaceships during the galaxy's biggest competition.The 1st
-  blockchain eSport event. Qualification start on Tuesday 22nd of June at 8:00
+  blockchain E-sport event. Qualification start on Tuesday 22nd of June at 8:00
   GMT
 ---
 
