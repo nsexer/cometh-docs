@@ -10,7 +10,7 @@ To play the Grand Prix you will need :
   
 - Metamask wallet \(or play with your email cf: [https://docs.cometh.io/play-the-game-without-metamask-wallet](https://docs.cometh.io/play-the-game-without-metamask-wallet)\),   
 - M.U.L.E Spaceship,   
-- Small amount of $MUST \(usually provided with the Mule\)  
+- Small amount of $MUST \(provided with the Mule\)  
 - Referral link \(optional, if you don't have one you can use this one : WUR9AB \) !
 
 Heads to[ https://develop.game.cometh.io/shop/mule](https://game.cometh.io/shop/mule) to get your very own M.U.L.E
@@ -21,7 +21,9 @@ Heads to[ https://develop.game.cometh.io/shop/mule](https://game.cometh.io/shop/
 
 ![](../.gitbook/assets/capture-de-cran-2021-06-22-a-14.35.34.png)
 
-To join the Academie, You need to send your Mule in game, after clicking on the Galaxie selection buton, you will see a new Sol on the left called ''Galactic Academy''
+To join the Academie, You first need to send your Mule in game.  
+After clicking on the Galaxie buton, you will see a new Sol on the left called ''Galactic Academy''  
+Click to join
 
 ![Click here to open the galaxy](../.gitbook/assets/0_1kvt7hh_rvzmzudf.png)
 
