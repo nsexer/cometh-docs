@@ -13,7 +13,7 @@ To play the Grand Prix you will need :
 - Small amount of $MUST \(provided with the Mule\)  
 - Referral link \(optional, if you don't have one you can use this one : WUR9AB \) !
 
-Heads to[ https://develop.game.cometh.io/shop/mule](https://game.cometh.io/shop/mule) to get your very own M.U.L.E
+Heads to[ ](https://game.cometh.io/shop/mule)[https://game.cometh.io/shop/mule](https://game.cometh.io/shop/mule) to get your very own M.U.L.E
 
 ## What is a M.U.L.E?
 
@@ -21,7 +21,7 @@ Heads to[ https://develop.game.cometh.io/shop/mule](https://game.cometh.io/shop/
 
 ![](../.gitbook/assets/capture-de-cran-2021-06-22-a-14.35.34.png)
 
-To join the Academie, You first need to send your Mule in game.  
+To join the Academy, You first need to send your Mule in game.  
 After clicking on the Galaxie buton, you will see a new Sol on the left called ''Galactic Academy''  
 Click to join
 
@@ -41,22 +41,22 @@ Familiarize yourself with the game, If it's your first time around, take a look 
 ##   **June 22nd and onward:** 
 
   
-Distribution of Polygon Galactic Cup tickets through Cometh Academy and through the Cometh TUBE for the Cup, Trophy and Grand Prix, if you Rank yourslef in the Top 10, you will receive a ticket for the Galactic cup
+Distribution of Polygon Galactic Cup tickets through Cometh Academy and through the Cometh TUBE for the Cup, Trophy and Grand Prix, **if you Rank yourslef in the Top 10, you will receive** a ticket for the **Galactic cup**
 
 ## **July the 10th at 2pm UTC**: 
 
   
-Polygon Galactic Cup, 1st stop on the road to the Grand Prix, reserved to common Spaceships and their 4,000 pilots competing for ~$40,000 in Polygon based tokens. The Top 500 players receive a ticket for the Trophy
+Polygon Galactic Cup, 1st stop on the road to the Grand Prix, **reserved to common Spaceships** and their 4,000 pilots competing for ~$40,000 in Polygon based tokens. **The Top 500 players** receive a ticket for the **Trophy**
 
 ## **July the 17th at 2pm UTC**: 
 
   
-Polygon Galactic Trophy, last stop before the Grand Prix, reserved to uncommon Spaceships and below for 1,500 players competing for ~$50,000 in Polygon based tokens. The Top 100 players receive a ticket for the Grand Prix
+Polygon Galactic Trophy, last stop before the Grand Prix, **reserved to uncommon Spaceships and below** for 1,500 players competing for ~$50,000 in Polygon based tokens. **The Top 100 players receive** a ticket for the **Grand Prix**
 
 ## **July the 25th at 2pm UTC**: 
 
   
-Polygon Galactic Grand Prix, reserved to the 300 best players piloting any Spaceship to compete for ~$60,000 in Polygon based tokens and incredible special awards of the best pilots of the season
+Polygon Galactic Grand Prix, **reserved to the 300 best players piloting any Spaceship** to compete for ~$60,000 in Polygon based tokens and incredible special awards of the best pilots of the season
 
 ## 
 
@@ -65,9 +65,9 @@ Polygon Galactic Grand Prix, reserved to the 300 best players piloting any Space
 ![The M.U.L.E ](../.gitbook/assets/7c6c44f233d259c52f5c15b315b8f1f7.png)
 
 The M.U.L.E is the most basic of all the Spaceships You can buy them with a Referral Link or in the Shop [https://develop.game.cometh.io/shop/mule](https://game.cometh.io/shop/mule)  
-They all look alike, Their only purpose is to allows you to reach the Academie Sol and get a basic tranning.  
-you could also get a chance to win a ticket for the Incoming Cup, if you are good enought  
-There is no limit on the number of M.U.L.E. you can have and you can't use your M.U.L.E. on another sol
+They all look alike, Their only purpose is to allows you to reach the Academy Sol and get a basic training.  
+you could also get a chance to win a ticket for the incoming Cup, if you are good enought  
+There is no limit on the number of M.U.L.E. you can have but you can't use your M.U.L.E. on another sol
 
 ![](../.gitbook/assets/1abd06209a2881b7e2304da86df30b4a.png)
 
