@@ -46,17 +46,17 @@ Distribution of Polygon Galactic Cup tickets through Cometh Academy and through 
 ## **July the 10th at 2pm UTC**: 
 
   
-Polygon Galactic Cup, 1st stop on the road to the Grand Prix, **reserved to common Spaceships** and their 4,000 pilots competing for ~$40,000 in Polygon based tokens. **The Top 500 players** receive a ticket for the **Trophy**
+Polygon Galactic Cup, 1st stop on the road to the Grand Prix, **reserved to common Spaceships** and their 4,000 pilots competing for ~**$40,000** in Polygon based tokens. **The Top 500 players** receive a ticket for the **Trophy**
 
 ## **July the 17th at 2pm UTC**: 
 
   
-Polygon Galactic Trophy, last stop before the Grand Prix, **reserved to uncommon Spaceships and below** for 1,500 players competing for ~$50,000 in Polygon based tokens. **The Top 100 players receive** a ticket for the **Grand Prix**
+Polygon Galactic Trophy, last stop before the Grand Prix, **reserved to uncommon Spaceships and below** for 1,500 players competing for ~**$50,000** in Polygon based tokens. **The Top 100 players receive** a ticket for the **Grand Prix**
 
 ## **July the 25th at 2pm UTC**: 
 
   
-Polygon Galactic Grand Prix, **reserved to the 300 best players piloting any Spaceship** to compete for ~$60,000 in Polygon based tokens and incredible special awards of the best pilots of the season
+Polygon Galactic Grand Prix, **reserved to the 300 best players piloting any Spaceship** to compete for ~**$60,000** in Polygon based tokens and incredible special awards of the best pilots of the season
 
 ## 
 
