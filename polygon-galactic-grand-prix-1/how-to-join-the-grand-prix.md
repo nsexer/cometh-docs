@@ -11,7 +11,7 @@ To play the Grand Prix you will need :
 - Metamask wallet \(or play with your email cf: [https://docs.cometh.io/play-the-game-without-metamask-wallet](https://docs.cometh.io/play-the-game-without-metamask-wallet)\),   
 - M.U.L.E Spaceship,   
 - Small amount of $MUST \(provided with the Mule\)  
-- Referral link \(optional, if you don't have one you can use this one :  [G6LC9A](https://game.cometh.io/shop/mule?code=G6LC9A)\) !
+- Referral link 
 
 Heads to[ ](https://game.cometh.io/shop/mule)[https://game.cometh.io/shop/mule](https://game.cometh.io/shop/mule) to get your very own M.U.L.E
 
@@ -22,7 +22,7 @@ Heads to[ ](https://game.cometh.io/shop/mule)[https://game.cometh.io/shop/mule](
 ![](../.gitbook/assets/capture-de-cran-2021-06-22-a-14.35.34.png)
 
 To join the Academy, You first need to send your Mule in game.  
-After clicking on the Galaxie buton, you will see a new Sol on the left called ''Galactic Academy''  
+After clicking on the Galaxie button, you will see a new Sol on the left called ''Galactic Academy''  
 Click to join
 
 ![Click here to open the galaxy](../.gitbook/assets/0_1kvt7hh_rvzmzudf.png)
@@ -41,17 +41,17 @@ Familiarize yourself with the game, If it's your first time around, take a look 
 ##   **June 22nd and onward:** 
 
   
-Distribution of Polygon Galactic Cup tickets through Cometh Academy and through the Cometh TUBE for the Cup, Trophy and Grand Prix, **if you Rank yourslef in the Top 10, you will receive** a ticket for the **Galactic cup**
+Distribution of Polygon Galactic Cup tickets through Cometh Academy and through the Cometh TUBE for the Cup, Trophy and Grand Prix, **if you Rank yourself in the Top 10, you will receive** a ticket for the [**Galactic cup**](polygon-galactic-grand-prix.md#c8a2)\*\*\*\*
 
 ## **July the 10th at 2pm UTC**: 
 
   
-Polygon Galactic Cup, 1st stop on the road to the Grand Prix, **reserved to common Spaceships** and their 4,000 pilots competing for ~**$40,000** in Polygon based tokens. **The Top 500 players** receive a ticket for the **Trophy**
+Polygon Galactic Cup, 1st stop on the road to the Grand Prix, **reserved to common Spaceships** and their 4,000 pilots competing for ~**$40,000** in Polygon based tokens. **The Top 500 players** receive a ticket for the [**Trophy**](polygon-galactic-grand-prix.md#8199)\*\*\*\*
 
 ## **July the 17th at 2pm UTC**: 
 
   
-Polygon Galactic Trophy, last stop before the Grand Prix, **reserved to uncommon Spaceships and below** for 1,500 players competing for ~**$50,000** in Polygon based tokens. **The Top 100 players receive** a ticket for the **Grand Prix**
+Polygon Galactic Trophy, last stop before the Grand Prix, **reserved to uncommon Spaceships and below** for 1,500 players competing for ~**$50,000** in Polygon based tokens. **The Top 100 players receive** a ticket for the [**Grand Prix**](polygon-galactic-grand-prix.md#27af)\*\*\*\*
 
 ## **July the 25th at 2pm UTC**: 
 
