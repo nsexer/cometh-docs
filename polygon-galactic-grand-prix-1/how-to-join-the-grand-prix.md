@@ -10,8 +10,7 @@ To play the Grand Prix you will need :
   
 - Metamask wallet \(or play with your email cf: [https://docs.cometh.io/play-the-game-without-metamask-wallet](https://docs.cometh.io/play-the-game-without-metamask-wallet)\),   
 - M.U.L.E Spaceship,   
-- Small amount of $MUST \(provided with the Mule\)  
-- Referral link 
+- Small amount of $MUST \(provided with the Mule\)
 
 Heads to[ ](https://game.cometh.io/shop/mule)[https://game.cometh.io/shop/mule](https://game.cometh.io/shop/mule) to get your very own M.U.L.E
 
