@@ -6,10 +6,12 @@
 
 * [The polygon Galactic Grand Prix](polygon-galactic-grand-prix-1/polygon-galactic-grand-prix.md)
 * [How to join the Grand Prix](polygon-galactic-grand-prix-1/how-to-join-the-grand-prix.md)
+* [Grand Prix FAQ](polygon-galactic-grand-prix-1/grand-prix-faq.md)
 
 ## 🕹 Game
 
 * [Enter the Game](game/enter-the-game.md)
+* [Referral program](game/referral-program.md)
 * [How to play Cometh](game/how-to-play-cometh-1/README.md)
   * [Change Solar Systems](game/how-to-play-cometh-1/solar-systems.md)
   * [Multi-Jump](game/how-to-play-cometh-1/multi-jump.md)
@@ -40,8 +42,8 @@
 * [What are Spaceships](spaceships/what-are-spaceships.md)
 * [Spaceship Characteristics](spaceships/spaceship-characteristics.md)
 * [How to get Spaceships](spaceships/how-to-get-spaceships.md)
-* [ComethRental](spaceships/comethrental/README.md)
-  * [Rental FAQ](spaceships/comethrental/rental-faq.md)
+* [ComethRental](spaceships/comethrental.md)
+* [Rental FAQ](spaceships/rental-faq.md)
 
 ---
 

@@ -35,7 +35,7 @@ When other players use your ships for a pull, you will get your pulling price in
 
 This way, you are **generating passive incomes in MUST** ⚗️  ****when you are not playing the game
 
-## 2. [ComethRental](../spaceships/comethrental/)
+## 2. [ComethRental](../spaceships/comethrental.md)
 
 When you are not playing the game, you can use the rental system to maximize your profits from your spaceships !  
   
@@ -47,7 +47,7 @@ You can choose :
   
 Rewards are shared between Spaceship lenders and borrowers. It allows any player to earn rewards without initial investments.
 
-See more about the renting System [here ](../spaceships/comethrental/)!  
+See more about the renting System [here ](../spaceships/comethrental.md)!  
 
 
 ## 3 Liquidity Mining on [ComethSwap](../comethswap-1/comethswap/)

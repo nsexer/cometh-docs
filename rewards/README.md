@@ -11,7 +11,7 @@ You have successfully mined your first comet? Congratulations!
 In Cometh; you can earn rewards in the form of tokens.   
 1. By actively playing [the Cometh game](https://game.cometh.io/) and mining comets  
 2. By having Spaceships in the Cometh game, you will earn rewards each time players pull on your spaceship  
-3. By renting your Spaceships via [ComethRental](../spaceships/comethrental/)  
+3. By renting your Spaceships via [ComethRental](../spaceships/comethrental.md)  
 4. By farming with your game rewards and tokens on [Comethswap](../comethswap-1/comethswap/)
 
 ### 2 types of rewards

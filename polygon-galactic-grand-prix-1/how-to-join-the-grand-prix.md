@@ -6,9 +6,10 @@ description: >-
 
 # How to join the Grand Prix
 
-To play the Grand Prix you will need   
-a metamask wallet \(or play with your email cf: [https://docs.cometh.io/play-the-game-without-metamask-wallet](https://docs.cometh.io/play-the-game-without-metamask-wallet)\),   
--  M.U.L.E Spaceship,   
+To play the Grand Prix you will need :  
+  
+- Metamask wallet \(or play with your email cf: [https://docs.cometh.io/play-the-game-without-metamask-wallet](https://docs.cometh.io/play-the-game-without-metamask-wallet)\),   
+- M.U.L.E Spaceship,   
 - Small amount of $MUST \(usually provided with the Mule\)  
 - Referral link \(optional, if you don't have one you can use this one : WUR9AB \) !
 
@@ -63,23 +64,10 @@ Polygon Galactic Grand Prix, reserved to the 300 best players piloting any Space
 
 The M.U.L.E is the most basic of all the Spaceships You can buy them with a Referral Link or in the Shop [https://develop.game.cometh.io/shop/mule](https://game.cometh.io/shop/mule)  
 They all look alike, Their only purpose is to allows you to reach the Academie Sol and get a basic tranning.  
-you could also get a chance to win a ticket for the Incoming Cup if you are good enought  
-There is no limit on the number of M.U.L.E. you can have  
-you can't use your M.U.L.E. on another sol
+you could also get a chance to win a ticket for the Incoming Cup, if you are good enought  
+There is no limit on the number of M.U.L.E. you can have and you can't use your M.U.L.E. on another sol
 
 ![](../.gitbook/assets/1abd06209a2881b7e2304da86df30b4a.png)
-
-
-
-## How many qualification tickets?
-
-
-
-## How many ships per system solar?
-
-
-
-
 
 
 
