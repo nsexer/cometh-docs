@@ -5,13 +5,13 @@
 ## 🏆 Polygon Galactic Grand Prix <a id="polygon-galactic-grand-prix-1"></a>
 
 * [The polygon Galactic Grand Prix](polygon-galactic-grand-prix-1/polygon-galactic-grand-prix.md)
-* [How to join the Grand Prix](polygon-galactic-grand-prix-1/how-to-join-the-grand-prix.md)
-* [Referral Program](polygon-galactic-grand-prix-1/referral-program.md)
+* [How to join the Grand Prix](polygon-galactic-grand-prix-1/how-to-join-the-grand-prix/README.md)
+  * [Grand Prix FAQ](polygon-galactic-grand-prix-1/how-to-join-the-grand-prix/grand-prix-faq.md)
+* [Referral program](polygon-galactic-grand-prix-1/referral-program-1.md)
 
 ## 🕹 Game
 
 * [Enter the Game](game/enter-the-game.md)
-* [Referral program](game/referral-program.md)
 * [How to play Cometh](game/how-to-play-cometh-1/README.md)
   * [Change Solar Systems](game/how-to-play-cometh-1/solar-systems.md)
   * [Multi-Jump](game/how-to-play-cometh-1/multi-jump.md)

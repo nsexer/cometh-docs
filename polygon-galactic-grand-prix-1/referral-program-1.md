@@ -1,7 +1,5 @@
 # Referral program
 
-The first large scale eSport tournament to be held on blockchain is about to [happen on Polygon](https://medium.com/cometh/summer-2021-climax-the-polygon-galactic-grand-prix-9e3014fe9a76) \(~$150,000 prize\)! To celebrate that breakthrough and bring everyone in, the Cometh team has crafted an automated referral program!
-
 ## How does the Cometh Referral Program work? <a id="4c33"></a>
 
 The program is 100% blockchain based and pays out in real time.![](https://miro.medium.com/max/60/0*6MNPvawJonaBw0JE?q=20)
