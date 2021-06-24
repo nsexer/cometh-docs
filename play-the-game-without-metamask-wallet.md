@@ -6,7 +6,7 @@ Cometh’s ambition is to gamify DeFi and make it accessible to everyone. To eas
 
 ## The 1-click play experience <a id="95ba"></a>
 
-![](https://miro.medium.com/max/1600/0*qEfcD93IFtmKuXXI)
+![](.gitbook/assets/d514564e58b099244299306eb5d6bf43.png)
 
 To eliminate the tedious step of bridging assets to Polygon, we are offering new players the opportunity to purchase a starterKit directly on L2. This kit contains everything you need to play Cometh immediately: A Ship \(NFT\) and Must \(Token\).
 
@@ -32,7 +32,7 @@ All these onboarding improvements have a simple goal: Bring more people into the
 
 The Starter kit is already available in StakeDAO marketplace:
 
-![](https://miro.medium.com/max/911/0*saUSXD8SXEwusUIY)
+![](.gitbook/assets/94f38d11e5648f33d8aa33b56a873194.png)
 
 ## Get your starter kit now! <a id="a25c"></a>
 
