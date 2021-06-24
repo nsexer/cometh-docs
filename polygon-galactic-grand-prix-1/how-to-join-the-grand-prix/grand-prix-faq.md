@@ -1,4 +1,4 @@
 # Grand Prix FAQ
 
-comming soon
+coming soon
 
