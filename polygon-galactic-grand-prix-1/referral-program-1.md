@@ -2,7 +2,7 @@
 
 ## How does the Cometh Referral Program work? <a id="4c33"></a>
 
-The program is 100% blockchain based and pays out in real time.![](https://miro.medium.com/max/60/0*6MNPvawJonaBw0JE?q=20)
+The program is 100% blockchain based and pays out in real time.
 
 ![](https://miro.medium.com/max/1295/0*6MNPvawJonaBw0JE)
 
