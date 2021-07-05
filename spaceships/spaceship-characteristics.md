@@ -8,7 +8,11 @@ Spaceship characteristics can be found on the table bellow. Each ship has a Rada
 
 ![](../.gitbook/assets/plan-de-travail-1.png)
 
-![](../.gitbook/assets/plan-de-travail-5.png)
+![](../.gitbook/assets/1_bs10azv4roktt2vlgmj73q.png)
+
+![](../.gitbook/assets/1_bfarz2nqnetlpzs9hvsu4w.jpg)
+
+
 
 > Base stats for common spaceships are 15 km range, 100% mining  power/rover and 300 seconds cooldown.
 
