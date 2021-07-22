@@ -9,6 +9,7 @@
   * [Grand Prix FAQ](polygon-galactic-grand-prix-1/how-to-join-the-grand-prix/grand-prix-faq.md)
 * [Referral program](polygon-galactic-grand-prix-1/referral-program-1.md)
 * [Polygon Galactic Trophy Rules](polygon-galactic-grand-prix-1/polygon-galactic-trophy-rules.md)
+* [Polygon Grand Prix Rules](polygon-galactic-grand-prix-1/polygon-grand-prix-rules.md)
 
 ## 🕹 Game
 
