@@ -13,6 +13,7 @@
 
 ## 🕹 Game
 
+* [Passive reward transition FAQ](game/passive-reward-transition-faq.md)
 * [Enter the Game](game/enter-the-game.md)
 * [How to play Cometh](game/how-to-play-cometh-1/README.md)
   * [Change Solar Systems](game/how-to-play-cometh-1/solar-systems.md)
