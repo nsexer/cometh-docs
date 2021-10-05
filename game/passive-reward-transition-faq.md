@@ -27,7 +27,7 @@ Until the launch of [Cometh Beyond](http://cometh.io)
 
 ### **What happens if I don't have the necessary amount of MUST staked for all my staked Spaceships?**
 
-You’ll get a prorrata of the rewards, the algorithm will calculate the rewards on the highest ship.  
+You’ll get a pro rata of the rewards, the algorithm will calculate the rewards on the highest ship.  
 
 
 ### **I’ve got a rental in progress, how does it work?**
