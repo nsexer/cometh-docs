@@ -17,7 +17,7 @@ Rewards will be MUST-MATIC LP Tokens from [ComethSwap](http://swap.cometh.io), t
 
 ### **How do I get the rewards?**
 
-Rewards will be airdropped every week  
+Rewards will be claimable every week \(Friday\)  
 
 
 ### **How long will the passive transition last?**
