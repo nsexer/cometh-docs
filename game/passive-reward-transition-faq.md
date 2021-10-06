@@ -17,7 +17,7 @@ Rewards will be MUST-MATIC LP Tokens from [ComethSwap](http://swap.cometh.io), t
 
 ### **How do I get the rewards?**
 
-Rewards will be claimable every week \( on Friday\)  
+Rewards will be claimable every week \(on Friday\)  
 
 
 ### **How long will the passive transition last?**
@@ -32,7 +32,7 @@ You’ll get a pro rata of the rewards, the algorithm will calculate the rewards
 
 ### **I’ve got a rental in progress, how does it work?**
 
-**All current rentals will be refund depending on the rental creation date \(snapshot the 4th of October\)**   
+All current rentals will be refund depending on the rental creation date \(snapshot the 4th of October\)   
 
 
 ### **Will the cooling booster be useful in Cometh Beyond?**
